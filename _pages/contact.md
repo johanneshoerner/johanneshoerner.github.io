@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: contact & impressum
 permalink: /contact/
 nav: true
 nav_order: 6
