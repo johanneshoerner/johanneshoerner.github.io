@@ -50,6 +50,6 @@
         - 'Award for special achievements by students from the German Meteorological Society (DMG)'
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: 'Climate & Atmospheric Dynamics, Earth System Modeling, Snowball Earth'
+    - 'Climate & Atmospheric Dynamics, Earth System Modeling, Snowball Earth'
