@@ -16,6 +16,7 @@
       year: 2020
       description:
         - 'Thesis: The Influence of Sea-ice Parameterizations on the Modelling of Snowball Earth Initiation'
+        
     - title: Bachelor of Science in Meteorology
       institution: Karlsruhe Institute of Technology, Germany
       year: 2017
@@ -28,6 +29,7 @@
     - title: University Assistant (pre-doc)
       institution: Department of Meteorology and Geophysics, University of Vienna, Austria
       year: 2021 - ongoing
+      description:
         - 'Working group: Climate Dynamics and Modeling'
         
     - title: Scientific Assistant 
@@ -47,16 +49,9 @@
   contents:
     - year: 2017 & 2020
       items: 
-        - Award for special achievements by students from the German Meteorological Society (DMG)
+        - 'Award for special achievements by students from the German Meteorological Society (DMG)'
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: 'Climate Dynamics, Earth System Modeling, Snowball Earth'
