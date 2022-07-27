@@ -1,8 +1,9 @@
 ---
 layout: post
-title: paper published
 date: 2022-06-26 09:00:00
-inline: false
+inline: true
 ---
+
+paper published:\n
 Hörner, J., A. Voigt, and C. Braun, 2022: Snowball Earth initiation and the thermodynamics of sea ice. Journal of Advances in Modeling Earth Systems, <a href="https://doi.org/10.1029/2021MS002734">10.1029/2021MS002734</a>.
 
