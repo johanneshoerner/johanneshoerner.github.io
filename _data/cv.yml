@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Johannes Hörner
-    - name: Date of Birth
-      value: 25.03.1994
     - name: Languages
       value: English, German
 
