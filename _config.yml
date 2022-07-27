@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -78,14 +78,14 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: https://www.researchgate.net/profile/Johannes-Hoerner-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://ufind.univie.ac.at/de/person.html?id=115310 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -248,7 +248,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 
 # Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
-max_author_limit: 3
+max_author_limit: 6
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
