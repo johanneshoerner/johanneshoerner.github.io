@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='https://img.univie.ac.at/'>Institute of Meteorology and Geophysics</a>, Universtity of Vienna.
+subtitle: <a href='https://img.univie.ac.at/'>Department of Meteorology and Geophysics</a>, Universtity of Vienna.
 
 profile:
   align: right
