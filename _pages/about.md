@@ -2,15 +2,13 @@
 layout: about
 title: home
 permalink: /
-subtitle: 
+subtitle: <a href='https://img.univie.ac.at/'>Institute of Meteorology and Geophysics</a>. Universtity of Vienna.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>Institute of Meteorology and Geophysics</p>
-    <p>University of Vienna</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
