@@ -12,15 +12,15 @@
   type: time_table
   contents:
     - title: Master of Science in Meteorology
-      institution: Karlsruhe Institute of Technology, Karlsruhe, Germany
+      institution: Karlsruhe Institute of Technology, Germany
       year: 2020
       description:
-        - "Thesis: The Influence of Sea-ice Parameterizations on the Modelling of Snowball Earth Initiation"
+        - 'Thesis: The Influence of Sea-ice Parameterizations on the Modelling of Snowball Earth Initiation'
     - title: Bachelor of Science in Meteorology
-      institution: Karlsruhe Institute of Technology, Karlsruhe, Germany
+      institution: Karlsruhe Institute of Technology, Germany
       year: 2017
       description:
-        - "Thesis: Der Einfluss des Toten Meeres auf Konvektion"
+        - 'Thesis: Der Einfluss des Toten Meeres auf Konvektion'
 
 - title: Experience
   type: time_table
@@ -28,23 +28,20 @@
     - title: University Assistant (pre-doc)
       institution: Department of Meteorology and Geophysics, University of Vienna, Austria
       year: 2021 - ongoing
-      
+        - 'Working group: Climate Dynamics and Modeling'
+        
     - title: Scientific Assistant 
       institution: Institute of Meteorology and Climate Research, Karlsruhe Institute of Technology, Germany
       year: 2020-2021
       description:
-        - Working group "Clouds and Storm Tracks"
+        - 'Working group: Clouds and Storm Tracks'
 
     - title: Student Assistant
       institution: Institute of Meteorology and Climate Research, Karlsruhe Institute of Technology, Germany.
       year: 2015-2019
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
       description:
-        - Working group "Extreme Weather in a Changing Climate"
-
+        - 'Working group: Extreme Weather in a Changing Climate'
+        
 - title: Honors and Awards
   type: time_table
   contents:
