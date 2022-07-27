@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>PhD student in the [Climate Dynamics and Modeling group](https://img.univie.ac.at/forschung/dynamik-und-modellierung-des-klimasystems) @ University of Vienna</p>
+    <p>PhD student in the Climate Dynamics and Modeling group at the University of Vienna</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
