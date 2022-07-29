@@ -17,3 +17,6 @@ Austria <br />
 Room 2F510 <br />
 +43-1-4277-53742<br />
 <a href='mailto:johannes.hoerner@univie.ac.at'>johannes.hoerner@univie.ac.at</a>
+
+
+Feel free to contact me, preferably via email or social media.
