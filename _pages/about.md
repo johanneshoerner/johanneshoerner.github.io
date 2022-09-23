@@ -7,7 +7,7 @@ subtitle: <a href='https://img.univie.ac.at/en/'>Department of Meteorology and G
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
