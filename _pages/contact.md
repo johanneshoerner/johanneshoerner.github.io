@@ -20,4 +20,3 @@ Room 2F510 <br />
 
 
 ---
-Feel free to contact me, preferably via email or social media.
