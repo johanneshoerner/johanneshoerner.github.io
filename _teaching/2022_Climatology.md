@@ -1,6 +1,6 @@
 ---
 layout: post
-semester: 2022S
+semester: 2022
 inline: true
 ---
 
