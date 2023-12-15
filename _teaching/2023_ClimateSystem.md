@@ -1,6 +1,6 @@
 ---
 layout: post
-semester: 2023S
+semester: 2023
 inline: true
 ---
 
