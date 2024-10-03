@@ -46,13 +46,6 @@
       institution: German Weather Service office Stuttgart      
       year: 2013
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2017 & 2020
-      items: 
-        - 'Award for special achievements by students from the German Meteorological Society (DMG)'
-
 - title: Academic Interests
   type: list
   contents:
