@@ -9,6 +9,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD (Dr. rer. nat.) in Meteorology
+      institution: University of Vienna, Austria
+      year: 2025
+      description:
+        - 'Thesis: Clouds and bare sea ice as key factors in stabilizing waterbelt solutions for Snowball Earth (<a href="https://doi.org/10.25365/thesis.78223">link</a>)'
+
     - title: Master of Science in Meteorology
       institution: Karlsruhe Institute of Technology, Germany
       year: 2020
@@ -24,9 +30,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist
+      institution: Baden-Württemberg State Institute for the Environment (LUBW), Germany
+      year: 2025 - ongoing
+      
     - title: University Assistant (pre-doc)
       institution: Department of Meteorology and Geophysics, University of Vienna, Austria
-      year: 2021 - ongoing
+      year: 2021 - 2025
       description:
         - 'Working group: Climate Dynamics and Modeling'
         
@@ -45,8 +55,3 @@
     - title: Internship
       institution: German Weather Service office Stuttgart      
       year: 2014
-
-- title: Academic Interests
-  type: list
-  contents:
-    - 'Climate & Atmospheric Dynamics, Earth System Modeling, Snowball Earth'
