@@ -10,9 +10,10 @@ social: true
 
 **Johannes Hörner** <br />
 Landesanstalt für Umwelt Baden-Württemberg (LUBW) <br />
-Griesbachstraße 1 <br />
-76185 Karlsruhe <br />
+Großoberfeld 3 <br />
+76135 Karlsruhe <br />
 Deutschland <br />
-johannes.hoerner at lubw dot bwl dot de <br />
 
+
+Feel free to contact me via one of the social media links below.
 ---
