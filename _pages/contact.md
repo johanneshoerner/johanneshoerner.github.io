@@ -15,5 +15,6 @@ Großoberfeld 3 <br />
 Deutschland <br />
 
 
-Feel free to contact me via one of the social media links below.
+Contact me via one of the social media links below.
+
 ---
